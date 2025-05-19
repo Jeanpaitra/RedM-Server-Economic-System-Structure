@@ -1,0 +1,29 @@
+┌───────────────────────────────────────────────────────────────────────────────────────────┐
+│                           MINERAL RESOURCE SYSTEM                                          │
+└───────────────────────────────────────────┬───────────────────────────────────────────────┘
+                                            │
+                ┌────────────────────────┬──┴───────────────────┬────────────────────────┐
+                ▼                        ▼                      ▼                        ▼
+┌───────────────────────┐    ┌─────────────────────┐    ┌────────────────────┐    ┌────────────────────┐
+│  PRECIOUS METALS      │    │  BASE METALS        │    │  GEMSTONES         │    │  OTHER RESOURCES   │
+├───────────────────────┤    ├─────────────────────┤    ├────────────────────┤    ├────────────────────┤
+│• Gold                 │    │• Copper             │    │• Diamond           │    │• Coal              │
+│  - Dust: $20/gram     │    │  - Ore: $1/lb       │    │  - Small: $100     │    │  - Standard: $1/lb │
+│  - Nugget: $150/unit  │    │  - Ingot: $5/lb     │    │  - Medium: $500    │    │  - Premium: $3/lb  │
+│  - Bar: $1,800/unit   │    │                     │    │  - Large: $2,000   │    │                    │
+│  - Value fluctuates   │    │• Iron               │    │                    │    │• Salt              │
+│    5-15% daily        │    │  - Ore: $0.5/lb     │    │• Ruby              │    │  - Standard: $8/lb │
+│                       │    │  - Ingot: $3/lb     │    │  - Small: $80      │    │  - Premium: $15/lb │
+│• Silver              │    │                     │    │  - Medium: $400    │    │                    │
+│  - Dust: $2/gram      │    │• Tin               │    │  - Large: $1,500   │    │• Clay              │
+│  - Bar: $25/unit      │    │  - Ore: $1.5/lb     │    │                    │    │  - Standard: $2/lb │
+│  - Value fluctuates   │    │  - Ingot: $4/lb     │    │• Sapphire          │    │  - Premium: $5/lb  │
+│    3-10% daily        │    │                     │    │  - Small: $90      │    │                    │
+│                       │    │• Lead               │    │  - Medium: $450    │    │• Sulfur            │
+│• Platinum            │    │  - Ore: $0.8/lb     │    │  - Large: $1,800   │    │  - Standard: $6/lb │
+│  - Nugget: $200/unit  │    │  - Ingot: $2.5/lb   │    │                    │    │  - Premium: $12/lb │
+│  - Bar: $2,000/unit   │    │                     │    │• Emerald           │    │                    │
+│  - Value fluctuates   │    │• Zinc               │    │  - Small: $85      │    │• Nitrate           │
+│    8-20% daily        │    │  - Ore: $1.2/lb     │    │  - Medium: $425    │    │  - Standard: $10/lb│
+│                       │    │  - Ingot: $3.5/lb   │    │  - Large: $1,600   │    │  - Premium: $20/lb │
+└───────────────────────┘    └─────────────────────┘    └────────────────────┘    └────────────────────┘
