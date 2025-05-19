@@ -1,0 +1,38 @@
+┌───────────────────────────────────────────────────────────────────────────────────────────┐
+│                       INSURANCE & RISK MANAGEMENT SYSTEM                                   │
+└───────────────────────────────────────────┬───────────────────────────────────────────────┘
+                                            │
+        ┌─────────────────────────────────┬─┴────────────────────────┬──────────────────────────┐
+        ▼                                 ▼                          ▼                          ▼
+┌──────────────────────┐       ┌───────────────────────┐    ┌─────────────────────┐    ┌──────────────────────┐
+│   PROPERTY INSURANCE │       │  BUSINESS INSURANCE   │    │  CARGO INSURANCE    │    │   LIFE INSURANCE     │
+├──────────────────────┤       ├───────────────────────┤    ├─────────────────────┤    ├──────────────────────┤
+│• Basic Coverage      │       │• Small Business       │    │• Local Delivery     │    │• Basic Coverage      │
+│  - Cost: 2% of       │       │  - Cost: 3% of        │    │  - Cost: 2% of      │    │  - Cost: $25/month   │
+│    property value    │       │    business value     │    │    cargo value      │    │  - Payout: $1,000    │
+│    per month         │       │    per month          │    │  - Coverage: 70%    │    │    on death          │
+│  - Coverage: 70%     │       │  - Coverage: 60%      │    │                     │    │                      │
+│  - Deductible: $100  │       │  - Deductible: $200   │    │• Regional Delivery  │    │• Standard Coverage   │
+│                      │       │                       │    │  - Cost: 5% of      │    │  - Cost: $50/month   │
+│• Standard Coverage   │       │• Medium Business      │    │    cargo value      │    │  - Payout: $2,500    │
+│  - Cost: 3% of       │       │  - Cost: 4% of        │    │  - Coverage: 80%    │    │    on death          │
+│    property value    │       │    business value     │    │                     │    │                      │
+│    per month         │       │    per month          │    │• Cross-Map Delivery │    │• Premium Coverage    │
+│  - Coverage: 85%     │       │  - Coverage: 75%      │    │  - Cost: 10% of     │    │  - Cost: $100/month  │
+│  - Deductible: $50   │       │  - Deductible: $100   │    │    cargo value      │    │  - Payout: $5,000    │
+│                      │       │                       │    │  - Coverage: 90%    │    │    on death          │
+│• Premium Coverage    │       │• Large Business       │    │                     │    │                      │
+│  - Cost: 5% of       │       │  - Cost: 5% of        │    │• High-Risk Delivery │    │• Family Coverage     │
+│    property value    │       │    business value     │    │  (dangerous routes) │    │  - Cost: $150/month  │
+│    per month         │       │    per month          │    │  - Cost: 15% of     │    │  - Payout: $10,000   │
+│  - Coverage: 100%    │       │  - Coverage: 90%      │    │    cargo value      │    │    on death          │
+│  - Deductible: $0    │       │  - Deductible: $50    │    │  - Coverage: 100%   │    │  - Additional        │
+│                      │       │                       │    │                     │    │    benefits for       │
+│• Claim Process       │       │• Business Liability   │    │• Claims Process     │    │    dependents        │
+│  - File report       │       │  - Cost: +2% to any   │    │  - Witness          │    │                      │
+│  - Damage assessment │       │    business insurance │    │    verification     │    │• Policy Terms        │
+│  - Payout within     │       │  - Covers customer    │    │  - Cargo manifest   │    │  - 30-day waiting    │
+│    48 hours          │       │    injuries           │    │  - Incident report  │    │    period            │
+│                      │       │  - Legal protection   │    │  - Payout within    │    │  - No suicide clause │
+│                      │       │                       │    │    72 hours         │    │  - Combat exclusion  │
+└──────────────────────┘       └───────────────────────┘    └─────────────────────┘    └──────────────────────┘
