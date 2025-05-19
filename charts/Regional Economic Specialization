@@ -1,0 +1,19 @@
+┌─────────────────────────────────────────────────────────────┐
+│                 REGIONAL SPECIALIZATION                      │
+└┬────────────────┬─────────────────┬───────────────┬─────────┘
+ ▼                ▼                 ▼               ▼          ▼
+┌────────────┐ ┌────────────┐ ┌────────────┐ ┌────────────┐ ┌────────────┐
+│NEW HANOVER │ │  LEMOYNE   │ │WEST ELIZABETH│ │ AMBARINO  │ │NEW AUSTIN  │
+├────────────┤ ├────────────┤ ├────────────┤ ├────────────┤ ├────────────┤
+│PRIMARY:    │ │PRIMARY:    │ │PRIMARY:     │ │PRIMARY:    │ │PRIMARY:    │
+│• Crops     │ │• Fish      │ │• Cattle     │ │• Furs      │ │• Minerals  │
+│• Timber    │ │• Herbs     │ │• Wool       │ │• Rare Herbs│ │• Cactus    │
+│• Livestock │ │• Moonshine │ │• Metals     │ │            │ │  Fruit     │
+├────────────┤ ├────────────┤ ├────────────┤ ├────────────┤ ├────────────┤
+│MARKET:     │ │MARKET:     │ │MARKET:      │ │MARKET:     │ │MARKET:     │
+│Valentine   │ │Saint Denis │ │Blackwater   │ │No Central  │ │Tumbleweed  │
+│            │ │            │ │             │ │Market      │ │            │
+├────────────┤ ├────────────┤ ├────────────┤ ├────────────┤ ├────────────┤
+│TAX RATE:   │ │TAX RATE:   │ │TAX RATE:    │ │TAX RATE:   │ │TAX RATE:   │
+│Medium (5%) │ │High (7%)   │ │Medium (5%)  │ │Low (3%)    │ │Low (3%)    │
+└────────────┘ └────────────┘ └────────────┘ └────────────┘ └────────────┘
