@@ -1,0 +1,28 @@
+┌───────────────────────────────────────────────────────────────────────────────────────────┐
+│                          BANKING SECURITY & CRIME SYSTEM                                   │
+└───────────────────────────────────────────┬───────────────────────────────────────────────┘
+                                            │
+        ┌─────────────────────────────────┬─┴────────────────────────┬──────────────────────────┐
+        ▼                                 ▼                          ▼                          ▼
+┌──────────────────────┐       ┌───────────────────────┐    ┌─────────────────────┐    ┌──────────────────────┐
+│  BANK SECURITY       │       │     BANK ROBBERY      │    │  COUNTERFEITING     │    │    MONEY LAUNDERING  │
+├──────────────────────┤       ├───────────────────────┤    ├─────────────────────┤    ├──────────────────────┤
+│• Security Levels     │       │• Planning Phase       │    │• Fake Currency      │    │• Suspicious Activity │
+│  - Basic: Small towns│       │  - Intel gathering    │    │  - Quality levels   │    │  Detection           │
+│    (Success: 40%)    │       │  - Team assembly      │    │  - Detection chance │    │  - Large deposits    │
+│  - Standard: Towns   │       │  - Equipment          │    │  - Legal penalties  │    │    (>$500) flagged   │
+│    (Success: 25%)    │       │    acquisition        │    │                     │    │  - Pattern analysis  │
+│  - Advanced: Cities  │       │                       │    │• Detection Methods  │    │                      │
+│    (Success: 15%)    │       │• Execution            │    │  - Visual inspection│    │• Legitimate Business │
+│                      │       │  - Guard patterns     │    │  - Bank validation  │    │  Fronts              │
+│• Security Measures   │       │  - Safe cracking      │    │  - Serial tracking  │    │  - Saloons           │
+│  - Armed guards      │       │  - Escape routes      │    │                     │    │  - General Stores    │
+│  - Timed safes       │       │                       │    │• Penalties          │    │  - Requires business │
+│  - Alarm systems     │       │• Consequences         │    │  - Fine: 500% of    │    │    license           │
+│                      │       │  - Bounty: $500-5,000 │    │    fake amount      │    │                      │
+│• Insurance           │       │  - Jail time:         │    │  - Jail: 60 minutes │    │• Asset Seizure       │
+│  - Premium: 5% of    │       │    30-120 minutes     │    │  - Reputation       │    │  - Suspicious assets │
+│    account value     │       │  - Reputation loss    │    │    penalty          │    │    can be confiscated│
+│  - Covers 80% of     │       │                       │    │                     │    │  - Court proceedings │
+│    robbery losses    │       │                       │    │                     │    │                      │
+└──────────────────────┘       └───────────────────────┘    └─────────────────────┘    └──────────────────────┘
