@@ -1,0 +1,27 @@
+┌───────────────────────────────────────────────────────────────────────────────────────────┐
+│                         MINING & RESOURCE EXTRACTION                                       │
+└───────────────────────────────────────────┬───────────────────────────────────────────────┘
+                                            │
+        ┌─────────────────────────────────┬─┴────────────────────────┬──────────────────────────┐
+        ▼                                 ▼                          ▼                          ▼
+┌──────────────────────┐       ┌───────────────────────┐    ┌─────────────────────┐    ┌──────────────────────┐
+│   MINING SYSTEM      │       │  RESOURCE PROCESSING  │    │   CLAIM SYSTEM      │    │  MINING EQUIPMENT    │
+├──────────────────────┤       ├───────────────────────┤    ├─────────────────────┤    ├──────────────────────┤
+│• Prospecting         │       │• Ore Crushing         │    │• Claim Stake        │    │• Basic Tools         │
+│  - Surface samples   │       │  - Crude: 60% yield   │    │  - Cost: $500       │    │  - Pan: $25          │
+│  - Detection tools   │       │  - Basic: 75% yield   │    │  - Size: 100x100ft  │    │  - Shovel: $50       │
+│                      │       │  - Advanced: 90% yield│    │  - Duration: 7 days │    │  - Pickaxe: $75      │
+│• Mining Methods      │       │• Smelting             │    │                     │    │                      │
+│  - Panning          │       │  - Iron Ore → Iron    │    │• Claim Registration │    │• Advanced Equipment  │
+│    (easy, low yield) │       │    (2:1 ratio)        │    │  - Fee: $50/week    │    │  - Sluice Box: $350  │
+│  - Surface Mining    │       │  - Gold Ore → Gold    │    │  - Government      │    │  - Blast Kit: $500    │
+│    (medium, med yield)│      │    (5:1 ratio)        │    │    regulated       │    │  - Mine Cart: $250    │
+│  - Deep Mining       │       │• Refining             │    │                     │    │                      │
+│    (hard, high yield) │      │  - Raw Silver → Silver│    │• Claim Disputes     │    │• Industrial          │
+│                      │       │    (3:1 ratio)        │    │  - Court system     │    │  - Hydraulic Rig:    │
+│• Yield Rates         │       │  - Raw Copper → Copper│    │  - Armed conflicts  │    │    $2,000            │
+│  - Common: 80%       │       │    (3:1 ratio)        │    │  - Claim jumping    │    │  - Steam Drill:      │
+│  - Uncommon: 15%     │       │• Gem Cutting          │    │    (criminal offense)│   │    $1,500            │
+│  - Rare: 5%          │       │  - Value increases    │    │                     │    │  - Dynamite Cache:   │
+│                      │       │    by 200-500%        │    │                     │    │    $1,000            │
+└──────────────────────┘       └───────────────────────┘    └─────────────────────┘    └──────────────────────┘
