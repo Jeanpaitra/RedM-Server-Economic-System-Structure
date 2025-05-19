@@ -1,0 +1,33 @@
+┌───────────────────────────────────────────────────────────────────────────────────────────┐
+│                         GOLD & SILVER MINING PROCESS                                       │
+└───────────────────────────────────────────┬───────────────────────────────────────────────┘
+                                            │
+        ┌─────────────────────────────────┬─┴────────────────────────┬──────────────────────────┐
+        ▼                                 ▼                          ▼                          ▼
+┌──────────────────────┐       ┌───────────────────────┐    ┌─────────────────────┐    ┌──────────────────────┐
+│   PROSPECTING        │       │     EXTRACTION         │    │   PROCESSING        │    │     REFINEMENT       │
+├──────────────────────┤       ├───────────────────────┤    ├─────────────────────┤    ├──────────────────────┤
+│• Surface Detection   │       │• Panning              │    │• Crushing           │    │• Smelting           │
+│  - Cost: $0          │       │  - Success: 10-25%    │    │  - Crude Hand       │    │  - Basic Furnace    │
+│  - Success: 5-15%    │       │  - Yield: 0.1-0.5g    │    │    Crushing         │    │    (yield: 65%)     │
+│  - Time: 5-10 min    │       │  - Time: 5 min        │    │    (yield: 60%)     │    │  - Standard Furnace │
+│                      │       │                       │    │  - Mechanical       │    │    (yield: 80%)     │
+│• Metal Detector      │       │• Sluice Box          │    │    Crushing         │    │  - Advanced Furnace │
+│  - Cost: $150        │       │  - Success: 30-50%    │    │    (yield: 80%)     │    │    (yield: 95%)     │
+│  - Success: 20-40%   │       │  - Yield: 0.5-2g      │    │                     │    │                     │
+│  - Time: 3-8 min     │       │  - Time: 10 min       │    │• Separation        │    │• Molding            │
+│                      │       │                       │    │  - Mercury         │    │  - Dust (no mold)   │
+│• Advanced Detection  │       │• Shaft Mining        │    │    Amalgamation     │    │  - Nuggets          │
+│  - Cost: $500        │       │  - Success: 60-80%    │    │    (yield: 70%)     │    │    (no processing)  │
+│  - Success: 50-70%   │       │  - Yield: 2-5g        │    │  - Chemical        │    │  - Small Bars       │
+│  - Time: 2-5 min     │       │  - Time: 30 min       │    │    Separation       │    │    (5g, 10g)        │
+│                      │       │                       │    │    (yield: 85%)     │    │  - Standard Bars    │
+│• Expert Geologist    │       │• Hydraulic Mining    │    │                     │    │    (50g, 100g)       │
+│  - Cost: $1,000      │       │  - Success: 70-90%    │    │• Quality Assessment│    │  - Premium Bars      │
+│  - Success: 70-90%   │       │  - Yield: 5-20g       │    │  - Basic Assay     │    │    (500g, 1000g)     │
+│  - Time: 1-3 min     │       │  - Time: 60 min       │    │    (70% accuracy)   │    │                     │
+│                      │       │                       │    │  - Advanced Assay   │    │• Purity Levels      │
+│                      │       │                       │    │    (95% accuracy)   │    │  - Crude: 60-75%    │
+│                      │       │                       │    │                     │    │  - Standard: 80-90% │
+│                      │       │                       │    │                     │    │  - Premium: 95-99%  │
+└──────────────────────┘       └───────────────────────┘    └─────────────────────┘    └──────────────────────┘
