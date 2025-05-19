@@ -1,0 +1,34 @@
+┌───────────────────────────────────────────────────────────────────────────────────────────┐
+│                       STOCK MARKET & INVESTMENT SYSTEM                                     │
+└───────────────────────────────────────────┬───────────────────────────────────────────────┘
+                                            │
+        ┌─────────────────────────────────┬─┴────────────────────────┬──────────────────────────┐
+        ▼                                 ▼                          ▼                          ▼
+┌──────────────────────┐       ┌───────────────────────┐    ┌─────────────────────┐    ┌──────────────────────┐
+│   COMPANY STOCKS     │       │    MARKET DYNAMICS    │    │ INVESTMENT VEHICLES │    │  TRADING MECHANICS   │
+├──────────────────────┤       ├───────────────────────┤    ├─────────────────────┤    ├──────────────────────┤
+│• Mining Companies    │       │• Price Movements      │    │• Mutual Funds       │    │• Basic Trading       │
+│  - Gold Rush Inc.    │       │  - Daily fluctuations │    │  - Diversified      │    │  - Market orders     │
+│    ($10-50/share)    │       │    (5-15%)            │    │    portfolios       │    │  - Commission: 5%    │
+│  - Silver Baron Ltd. │       │  - Event-based moves  │    │  - Management fee:  │    │  - Processing time:  │
+│    ($5-25/share)     │       │    (10-30%)           │    │    2%/month         │    │    immediate         │
+│                      │       │  - Market crashes     │    │  - Lower risk       │    │                      │
+│• Transport Companies │       │    (50-70% drops)     │    │                     │    │• Advanced Trading    │
+│  - Frontier Express  │       │                       │    │• Corporate Bonds    │    │  - Limit orders      │
+│    ($8-40/share)     │       │• Market Indexes       │    │  - Fixed returns:   │    │  - Commission: 3%    │
+│  - Railway Ventures  │       │  - Industrial Index   │    │    3-8%/month       │    │  - Short selling     │
+│    ($15-75/share)    │       │  - Resource Index     │    │  - Term: 1-6 months │    │    (Premium feature) │
+│                      │       │  - Financial Index    │    │  - Medium risk      │    │                      │
+│• Banking Firms       │       │                       │    │                     │    │• Market Analysis     │
+│  - Frontier National │       │• Market Hours         │    │• High-Risk Ventures │    │  - Technical charts  │
+│    ($20-100/share)   │       │  - Open: 9am-5pm      │    │  - Mining ventures  │    │  - Basic: free       │
+│  - Merchant's Trust  │       │    game time          │    │  - New businesses   │    │  - Advanced:         │
+│    ($15-75/share)    │       │  - After-hours trading│    │  - Returns:         │    │    $50/month         │
+│                      │       │    (+10% commission)  │    │    -100% to +500%   │    │                      │
+│• Manufacturing Corps │       │                       │    │                     │    │• Insider Trading     │
+│  - Steel & Iron Works│       │• Economic Reports     │    │• Real Estate Trusts │    │  - Illegal           │
+│    ($12-60/share)    │       │  - Weekly company     │    │  - Property         │    │  - Detection chance: │
+│  - Frontier Arsenal  │       │    earnings           │    │    portfolios       │    │    25% per transaction│
+│    ($18-90/share)    │       │  - Monthly economic   │    │  - Rental income    │    │  - Penalty: $5,000   │
+│                      │       │    indicators         │    │  - Appreciation     │    │    fine + reputation │
+└──────────────────────┘       └───────────────────────┘    └─────────────────────┘    └──────────────────────┘
