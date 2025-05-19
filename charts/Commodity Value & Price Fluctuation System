@@ -1,0 +1,46 @@
+┌───────────────────────────────────────────────────────────────────────────────────────────┐
+│                     COMMODITY VALUE & PRICE FLUCTUATION SYSTEM                             │
+└───────────────────────────────────────────┬───────────────────────────────────────────────┘
+                                            │
+        ┌─────────────────────────────────┬─┴────────────────────────┬──────────────────────────┐
+        ▼                                 ▼                          ▼                          ▼
+┌──────────────────────┐       ┌───────────────────────┐    ┌─────────────────────┐    ┌──────────────────────┐
+│ PRECIOUS METALS      │       │ BASE METALS & MINERALS│    │  NATURAL RESOURCES  │    │ MANUFACTURED GOODS   │
+│ FLUCTUATIONS         │       │ FLUCTUATIONS          │    │  FLUCTUATIONS       │    │ FLUCTUATIONS         │
+├──────────────────────┤       ├───────────────────────┤    ├─────────────────────┤    ├──────────────────────┤
+│• Gold                │       │• Copper               │    │• Timber             │    │• Weapons             │
+│  - Base: $1,800/bar  │       │  - Base: $5/lb        │    │  - Base: $15/bundle │    │  - Base varies by    │
+│  - Daily variance:   │       │  - Daily variance:    │    │  - Daily variance:  │    │    type              │
+│    ±3-8%             │       │    ±1-5%              │    │    ±1-4%            │    │  - Weekly variance:  │
+│  - Weekly trend:     │       │  - Weekly trend:      │    │  - Monthly trend:   │    │    ±2-7%             │
+│    ±5-15%            │       │    ±3-10%             │    │    ±5-15%           │    │  - Event-based:      │
+│  - Event-based:      │       │  - Event-based:       │    │  - Event-based:     │    │    ±10-25%           │
+│    ±10-30%           │       │    ±5-20%             │    │    ±10-25%          │    │                      │
+│                      │       │                       │    │                     │    │• Tools               │
+│• Silver              │       │• Iron                 │    │• Crops              │    │  - Base varies by    │
+│  - Base: $25/bar     │       │  - Base: $3/lb        │    │  - Base varies by   │    │    type              │
+│  - Daily variance:   │       │  - Daily variance:    │    │    type             │    │  - Weekly variance:  │
+│    ±2-6%             │       │    ±1-3%              │    │  - Daily variance:  │    │    ±2-5%             │
+│  - Weekly trend:     │       │  - Weekly trend:      │    │    ±2-5%            │    │  - Seasonal:         │
+│    ±3-12%            │       │    ±2-8%              │    │  - Seasonal:        │    │    ±5-15%            │
+│  - Event-based:      │       │  - Event-based:       │    │    ±15-40%          │    │                      │
+│    ±8-25%            │       │    ±5-15%             │    │                     │    │• Clothing            │
+│                      │       │                       │    │• Livestock Products │    │  - Base varies by    │
+│• Platinum            │       │• Coal                 │    │  - Base varies by   │    │    type              │
+│  - Base: $2,000/bar  │       │  - Base: $1/lb        │    │    type             │    │  - Monthly variance: │
+│  - Daily variance:   │       │  - Daily variance:    │    │  - Daily variance:  │    │    ±3-8%             │
+│    ±4-10%            │       │    ±1-4%              │    │    ±1-3%            │    │  - Seasonal:         │
+│  - Weekly trend:     │       │  - Weekly trend:      │    │  - Weekly variance: │    │    ±10-20%           │
+│    ±6-18%            │       │    ±2-10%             │    │    ±3-10%           │    │                      │
+│  - Event-based:      │       │  - Seasonal:          │    │  - Seasonal:        │    │• Luxury Items        │
+│    ±12-35%           │       │    ±10-30%            │    │    ±10-25%          │    │  - Base varies by    │
+│                      │       │                       │    │                     │    │    type              │
+│• Gemstones           │       │• Salt                 │    │• Fish & Game        │    │  - Monthly variance: │
+│  - Base varies by    │       │  - Base: $8/lb        │    │  - Base varies by   │    │    ±5-15%            │
+│    type and quality  │       │  - Daily variance:    │    │    type             │    │  - Event-based:      │
+│  - Weekly variance:  │       │    ±1-3%              │    │  - Daily variance:  │    │    ±15-40%           │
+│    ±5-15%            │       │  - Monthly trend:     │    │    ±3-8%            │    │                      │
+│  - Event-based:      │       │    ±5-15%             │    │  - Weather-based:   │    │                      │
+│    ±20-50%           │       │  - Seasonal:          │    │    ±10-30%          │    │                      │
+│                      │       │    ±10-25%            │    │                     │    │                      │
+└──────────────────────┘       └───────────────────────┘    └─────────────────────┘    └──────────────────────┘
