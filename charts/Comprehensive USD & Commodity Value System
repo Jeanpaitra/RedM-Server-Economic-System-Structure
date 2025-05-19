@@ -1,0 +1,21 @@
+┌───────────────────────────────────────────────────────────────────────────────────────────┐
+│                          USD & COMMODITY VALUE SYSTEM                                      │
+└───────────────────────────────────────────┬───────────────────────────────────────────────┘
+                                            │
+         ┌────────────────────────────────┬─┴──────────────────────┬─────────────────────────────┐
+         ▼                                ▼                        ▼                             ▼
+┌──────────────────────────┐   ┌───────────────────────┐   ┌────────────────────┐    ┌───────────────────────┐
+│     USD STANDARDS        │   │   PRECIOUS METALS     │   │ MINERAL RESOURCES  │    │   MARKET DYNAMICS     │
+│                          │   │     VALUATION         │   │    VALUATION       │    │                       │
+├──────────────────────────┤   ├───────────────────────┤   ├────────────────────┤    ├───────────────────────┤
+│• $1 USD = 100 cents      │   │• Gold                 │   │• Copper            │    │• Supply & Demand      │
+│• Small Bills ($1, $5)    │   │  - Dust: $20/gram     │   │  - $5/lb           │    │  Algorithms           │
+│• Medium Bills ($10, $20) │   │  - Nugget: $150/unit  │   │• Iron              │    │• Dynamic Pricing      │
+│• Large Bills ($50, $100) │   │  - Bar: $1,800/unit   │   │  - $3/lb           │    │  Based On:            │
+│• Bank Drafts ($500+)     │   │• Silver               │   │• Coal              │    │  - Player Activity    │
+│                          │   │  - Dust: $2/gram      │   │  - $1/lb           │    │  - Regional Supply    │
+│                          │   │  - Bar: $25/unit      │   │• Salt              │    │  - Mining Activity    │
+│                          │   │• Platinum             │   │  - $8/lb           │    │  - Server Events      │
+│                          │   │  - Nugget: $200/unit  │   │• Gemstones         │    │                       │
+│                          │   │  - Bar: $2,000/unit   │   │  - Varies by type  │    │                       │
+└──────────────────────────┘   └───────────────────────┘   └────────────────────┘    └───────────────────────┘
