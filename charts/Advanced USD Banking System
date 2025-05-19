@@ -1,0 +1,26 @@
+┌───────────────────────────────────────────────────────────────────────────────────────────┐
+│                               BANKING SYSTEM                                               │
+└───────────────────────────────────────────┬───────────────────────────────────────────────┘
+                                            │
+        ┌─────────────────────────────────┬─┴────────────────────────┬──────────────────────────┐
+        ▼                                 ▼                          ▼                          ▼
+┌──────────────────────┐       ┌───────────────────────┐    ┌─────────────────────┐    ┌──────────────────────┐
+│   ACCOUNT TYPES      │       │     BANK SERVICES     │    │   LOAN SYSTEM      │    │   SECURITY SYSTEM    │
+├──────────────────────┤       ├───────────────────────┤    ├─────────────────────┤    ├──────────────────────┤
+│• Checking            │       │• Deposits             │    │• Personal Loans     │    │• Account Protection  │
+│  - No interest       │       │  (instant)            │    │  - Max: $5,000      │    │  (passwords)         │
+│  - Unlimited         │       │• Withdrawals          │    │  - Interest: 8%     │    │• Transaction Logs    │
+│    transactions      │       │  (instant in region)  │    │  - Term: 30 days    │    │  (last 30 days)      │
+│  - Min balance: $5   │       │• Wire Transfers       │    │• Business Loans     │    │• Robbery Mechanics   │
+│                      │       │  ($5 fee, 1-day       │    │  - Max: $20,000     │    │  - Bank heists       │
+│• Savings             │       │   delivery)           │    │  - Interest: 6%     │    │  - Success based on  │
+│  - 2% interest/week  │       │• Bank Drafts          │    │  - Term: 60 days    │    │    planning & skills │
+│  - 3 free withdrawals│       │  ($10 fee)            │    │• Property Loans     │    │• Recovery System     │
+│    per week          │       │• Currency Exchange    │    │  - Max: 80% of      │    │  - Insurance         │
+│  - Min balance: $50  │       │  (USD ↔ Gold/Silver)  │    │    property value   │    │    (premium feature) │
+│                      │       │  (5% fee)             │    │  - Interest: 5%     │    │  - Federal bailout   │
+│• Investment          │       │                       │    │  - Term: 90 days    │    │    (server events)   │
+│  - 5% interest/week  │       │                       │    │                     │    │                      │
+│  - 7-day hold period │       │                       │    │                     │    │                      │
+│  - Min balance: $500 │       │                       │    │                     │    │                      │
+└──────────────────────┘       └───────────────────────┘    └─────────────────────┘    └──────────────────────┘
