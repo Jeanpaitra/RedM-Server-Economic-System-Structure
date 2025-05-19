@@ -1,0 +1,39 @@
+┌───────────────────────────────────────────────────────────────────────────────────────────┐
+│                        CRAFTING & MANUFACTURING SYSTEM                                     │
+└───────────────────────────────────────────┬───────────────────────────────────────────────┘
+                                            │
+        ┌─────────────────────────────────┬─┴────────────────────────┬──────────────────────────┐
+        ▼                                 ▼                          ▼                          ▼
+┌──────────────────────┐       ┌───────────────────────┐    ┌─────────────────────┐    ┌──────────────────────┐
+│   BLACKSMITHING      │       │     GUNSMITHING       │    │   JEWELRY CRAFTING  │    │   OTHER CRAFTING     │
+├──────────────────────┤       ├───────────────────────┤    ├─────────────────────┤    ├──────────────────────┤
+│• Tools               │       │• Parts Crafting       │    │• Simple Jewelry     │    │• Leatherworking      │
+│  - Basic Tools       │       │  - Basic Parts        │    │  - Silver Ring      │    │  - Basic Items       │
+│    Iron: 5 units     │       │    Iron: 3 units      │    │    Silver: 5g       │    │    Leather: 2 units  │
+│    Coal: 2 units     │       │    Wood: 2 units      │    │    (Value: $15)     │    │    (Value: $10)      │
+│    (Value: $25)      │       │    (Value: $20)       │    │  - Gold Pendant     │    │  - Advanced Items    │
+│  - Advanced Tools    │       │  - Advanced Parts     │    │    Gold: 2g         │    │    Leather: 5 units  │
+│    Iron: 10 units    │       │    Iron: 5 units      │    │    (Value: $50)     │    │    Hardware: 2 units │
+│    Steel: 2 units    │       │    Steel: 1 unit      │    │                     │    │    (Value: $35)      │
+│    (Value: $50)      │       │    (Value: $40)       │    │• Complex Jewelry    │    │                      │
+│                      │       │                       │    │  - Diamond Ring     │    │• Woodworking         │
+│• Weapons             │       │• Firearms             │    │    Gold: 5g         │    │  - Basic Items       │
+│  - Basic Weapons     │       │  - Basic Firearms     │    │    Diamond: 1 small │    │    Wood: 3 units     │
+│    Iron: 8 units     │       │    Parts: 5 basic     │    │    (Value: $200)    │    │    (Value: $15)      │
+│    Wood: 3 units     │       │    (Value: $100)      │    │  - Premium Necklace │    │  - Advanced Items    │
+│    (Value: $40)      │       │  - Premium Firearms   │    │    Gold: 10g        │    │    Wood: 6 units     │
+│  - Advanced Weapons  │       │    Parts: 3 advanced  │    │    Gems: 3 small    │    │    Hardware: 2 units │
+│    Steel: 5 units    │       │    Premium Wood: 2    │    │    (Value: $350)    │    │    (Value: $45)      │
+│    Silver Inlay: 2g  │       │    (Value: $250)      │    │                     │    │                      │
+│    (Value: $150)     │       │                       │    │• Custom Jewelry     │    │• Tailoring           │
+│                      │       │• Ammunition           │    │  - Bespoke Design   │    │  - Basic Clothing    │
+│• Armor               │       │  - Basic Ammo         │    │    Gold/Silver: var │    │    Cloth: 4 units    │
+│  - Light Armor       │       │    Lead: 1 unit       │    │    Gems: variable   │    │    (Value: $20)      │
+│    Iron: 12 units    │       │    Gunpowder: 1 unit  │    │    (Value: $500+)   │    │  - Premium Clothing  │
+│    Leather: 5 units  │       │    (10 rounds: $5)    │    │                     │    │    Cloth: 8 units    │
+│    (Value: $75)      │       │  - Premium Ammo       │    │                     │    │    Leather: 2 units  │
+│  - Heavy Armor       │       │    Lead: 1 unit       │    │                     │    │    Dye: 1 unit       │
+│    Steel: 20 units   │       │    Gunpowder: 2 units │    │                     │    │    (Value: $75)      │
+│    Leather: 10 units │       │    (10 rounds: $12)   │    │                     │    │                      │
+│    (Value: $200)     │       │                       │    │                     │    │                      │
+└──────────────────────┘       └───────────────────────┘    └─────────────────────┘    └──────────────────────┘
