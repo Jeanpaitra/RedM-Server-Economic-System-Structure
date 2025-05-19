@@ -1,0 +1,45 @@
+┌───────────────────────────────────────────────────────────────────────────────────────────┐
+│                        ECONOMIC INFLUENCE OF PLAYER ACTIONS                                │
+└───────────────────────────────────────────┬───────────────────────────────────────────────┘
+                                            │
+        ┌─────────────────────────────────┬─┴────────────────────────┬──────────────────────────┐
+        ▼                                 ▼                          ▼                          ▼
+┌──────────────────────┐       ┌───────────────────────┐    ┌─────────────────────┐    ┌──────────────────────┐
+│ RESOURCE GATHERING   │       │  MARKET MANIPULATION  │    │ GOVERNMENT CONTROL  │    │ CRIMINAL ACTIVITIES  │
+│ IMPACT               │       │                       │    │                     │    │                      │
+├──────────────────────┤       ├───────────────────────┤    ├─────────────────────┤    ├──────────────────────┤
+│• Mining Impact       │       │• Price Manipulation   │    │• Elected Positions  │    │• Robbery Effects     │
+│  - High activity in  │       │  - Bulk buying raises │    │  - Governor can set │    │  - Bank robberies    │
+│    a region reduces  │       │    local prices by    │    │    regional tax     │    │    temporarily       │
+│    resource yield    │       │    5-25%              │    │    rates (±2%)      │    │    reduce bank       │
+│    by 5-30%          │       │  - Bulk selling       │    │  - Sheriff controls │    │    liquidity by      │
+│  - Resources respawn │       │    decreases local    │    │    bounty rates     │    │    10-50%            │
+│    after 1-7 days    │       │    prices by 5-25%    │    │    and frequency    │    │  - Store robberies   │
+│    of inactivity     │       │                       │    │                     │    │    reduce inventory  │
+│                      │       │• Market Cornering     │    │• Law Enforcement    │    │    by 20-40%         │
+│• Hunting Impact      │       │  - Controlling 50%+   │    │  - More deputies    │    │                      │
+│  - High activity     │       │    of a resource      │    │    reduces crime by │    │• Counterfeiting     │
+│    reduces animal    │       │    type allows price  │    │    2-5% per deputy  │    │  - Each $100 in fake │
+│    spawns by 5-30%   │       │    setting (±30%)     │    │  - Higher bounties  │    │    currency causes   │
+│  - Animals respawn   │       │  - Monopoly detection │    │    increase bounty  │    │    0.5% inflation    │
+│    after 1-3 days    │       │    chance: 5% daily   │    │    hunter activity  │    │  - Detection creates │
+│    of inactivity     │       │                       │    │    by 10-30%        │    │    5-15% temporary   │
+│                      │       │• Trade Manipulation   │    │                     │    │    market panic      │
+│• Farming Impact      │       │  - Route disruption   │    │• Public Works       │    │                      │
+│  - Each active farm  │       │    (banditry)         │    │  - Road improvements│    │• Smuggling Impact    │
+│    reduces crop      │       │    increases prices   │    │    increase trade   │    │  - Bypasses taxes    │
+│    prices by 1-3%    │       │    by 15-40%          │    │    volume by 5-20%  │    │    (5% of goods)     │
+│  - Seasonal crops    │       │  - New trade routes   │    │  - Town improvements│    │  - Decreases legal   │
+│    create 20-50%     │       │    decrease prices    │    │    increase property│    │    good prices by    │
+│    price swings      │       │    by 10-25%          │    │    values by 5-15%  │    │    3-8% in region    │
+│                      │       │                       │    │                     │    │                      │
+│• Deforestation       │       │• Regional Influence   │    │• Economic Policies  │    │• Black Markets       │
+│  - High timber       │       │  - Control of a town  │    │  - Subsidies for    │    │  - Illegal markets   │
+│    harvesting        │       │    allows taxation    │    │    specific goods   │    │    offer prices      │
+│    increases prices  │       │    (1-5% of sales)    │    │    reduce prices    │    │    15-30% different  │
+│    by 2-10% weekly   │       │  - Faction dominance  │    │    by 10-25%        │    │    from legal        │
+│  - Trees respawn     │       │    affects regional   │    │  - Trade embargoes  │    │  - Each active black │
+│    after 5-14 days   │       │    security and       │    │    increase affected│    │    market decreases  │
+│    of inactivity     │       │    commerce rates     │    │    good prices by   │    │    tax revenue by    │
+│                      │       │                       │    │    25-75%           │    │    2-5% in region    │
+└──────────────────────┘       └───────────────────────┘    └─────────────────────┘    └──────────────────────┘
