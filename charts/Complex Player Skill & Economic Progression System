@@ -1,0 +1,50 @@
+
+┌───────────────────────────────────────────────────────────────────────────────────────────┐
+│                    PLAYER SKILL & ECONOMIC PROGRESSION                                     │
+└───────────────────────────────────────────┬───────────────────────────────────────────────┘
+                                            │
+        ┌─────────────────────────────────┬─┴────────────────────────┬──────────────────────────┐
+        ▼                                 ▼                          ▼                          ▼
+┌──────────────────────┐       ┌───────────────────────┐    ┌─────────────────────┐    ┌──────────────────────┐
+│   RESOURCE SKILLS    │       │     TRADE SKILLS      │    │  BUSINESS SKILLS    │    │   FINANCIAL SKILLS   │
+├──────────────────────┤       ├───────────────────────┤    ├─────────────────────┤    ├──────────────────────┤
+│• Mining              │       │• Crafting             │    │• Management         │    │• Investing           │
+│  - Level 1: +0%      │       │  - Level 1: +0%       │    │  - Level 1: +0%     │    │  - Level 1: +0%      │
+│    yield             │       │    quality            │    │    efficiency       │    │    returns           │
+│  - Level 10: +25%    │       │  - Level 10: +25%     │    │  - Level 10: +25%   │    │  - Level 10: +25%    │
+│    yield             │       │    quality            │    │    efficiency       │    │    returns           │
+│  - Level 25: +50%    │       │  - Level 25: +50%     │    │  - Level 25: +50%   │    │  - Level 25: +50%    │
+│    yield             │       │    quality            │    │    efficiency       │    │    returns           │
+│  - Level 50: +100%   │       │  - Level 50: +100%    │    │  - Level 50: +100%  │    │  - Level 50: +100%   │
+│    yield             │       │    quality            │    │    efficiency       │    │    returns           │
+│                      │       │                       │    │                     │    │                      │
+│• Hunting             │       │• Trading              │    │• Negotiation        │    │• Banking             │
+│  - Level 1: +0%      │       │  - Level 1: +0%       │    │  - Level 1: +0%     │    │  - Level 1: +0%      │
+│    quality           │       │    profit margin      │    │    success rate     │    │    interest rate     │
+│  - Level 10: +20%    │       │  - Level 10: +10%     │    │  - Level 10: +10%   │    │  - Level 10: +0.5%   │
+│    quality           │       │    profit margin      │    │    success rate     │    │    interest rate     │
+│  - Level 25: +40%    │       │  - Level 25: +25%     │    │  - Level 25: +25%   │    │  - Level 25: +1.0%   │
+│    quality           │       │    profit margin      │    │    success rate     │    │    interest rate     │
+│  - Level 50: +80%    │       │  - Level 50: +50%     │    │  - Level 50: +50%   │    │  - Level 50: +2.0%   │
+│    quality           │       │    profit margin      │    │    success rate     │    │    interest rate     │
+│                      │       │                       │    │                     │    │                      │
+│• Farming             │       │• Manufacturing        │    │• Leadership         │    │• Economics           │
+│  - Level 1: +0%      │       │  - Level 1: +0%       │    │  - Level 1: +0%     │    │  - Level 1: +0%      │
+│    yield             │       │    production rate    │    │    team bonus       │    │    market insight    │
+│  - Level 10: +30%    │       │  - Level 10: +15%     │    │  - Level 10: +5%    │    │  - Level 10: +10%    │
+│    yield             │       │    production rate    │    │    team bonus       │    │    market insight    │
+│  - Level 25: +60%    │       │  - Level 25: +30%     │    │  - Level 25: +15%   │    │  - Level 25: +25%    │
+│    yield             │       │    production rate    │    │    team bonus       │    │    market insight    │
+│  - Level 50: +120%   │       │  - Level 50: +60%     │    │  - Level 50: +30%   │    │  - Level 50: +50%    │
+│    yield             │       │    production rate    │    │    team bonus       │    │    market insight    │
+│                      │       │                       │    │                     │    │                      │
+│• Prospecting         │       │• Bartering            │    │• Marketing          │    │• Accounting          │
+│  - Level 1: +0%      │       │  - Level 1: +0%       │    │  - Level 1: +0%     │    │  - Level 1: +0%      │
+│    discovery rate    │       │    exchange rate      │    │    customer rate    │    │    tax efficiency    │
+│  - Level 10: +15%    │       │  - Level 10: +5%      │    │  - Level 10: +10%   │    │  - Level 10: +5%     │
+│    discovery rate    │       │    exchange rate      │    │    customer rate    │    │    tax efficiency    │
+│  - Level 25: +35%    │       │  - Level 25: +15%     │    │  - Level 25: +25%   │    │  - Level 25: +15%    │
+│    discovery rate    │       │    exchange rate      │    │    customer rate    │    │    tax efficiency    │
+│  - Level 50: +75%    │       │  - Level 50: +30%     │    │  - Level 50: +50%   │    │  - Level 50: +30%    │
+│    discovery rate    │       │    exchange rate      │    │    customer rate    │    │    tax efficiency    │
+└──────────────────────┘       └───────────────────────┘    └─────────────────────┘    └──────────────────────┘
