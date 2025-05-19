@@ -1,0 +1,40 @@
+┌───────────────────────────────────────────────────────────────────────────────────────────┐
+│                    ECONOMIC DATA FLOW & SERVER INTEGRATION                                 │
+└───────────────────────────────────────────┬───────────────────────────────────────────────┘
+                                            │
+        ┌─────────────────────────────────┬─┴────────────────────────┬──────────────────────────┐
+        ▼                                 ▼                          ▼                          ▼
+┌──────────────────────┐       ┌───────────────────────┐    ┌─────────────────────┐    ┌──────────────────────┐
+│  DATABASE STRUCTURE  │       │   UPDATE FREQUENCY    │    │   PLAYER INTERFACE  │    │ ADMIN CONTROLS       │
+├──────────────────────┤       ├───────────────────────┤    ├─────────────────────┤    ├──────────────────────┤
+│• Player Accounts     │       │• Real-time Updates    │    │• Economic HUD       │    │• Price Controls      │
+│  - Balance data      │       │  - Player balances    │    │  - Personal balance │    │  - Manual price      │
+│  - Inventory data    │       │  - Inventory changes  │    │  - Inventory value  │    │    adjustments       │
+│  - Property records  │       │  - Combat actions     │    │  - Bank accounts    │    │  - Regional market   │
+│  - Skill levels      │       │  - Chat/interactions  │    │  - Property value   │    │    resets            │
+│                      │       │                       │    │                     │    │                      │
+│• Market Data         │       │• Minute-by-Minute     │    │• Market Interfaces  │    │• Resource Controls   │
+│  - Current prices    │       │  - Trade data         │    │  - Shop menus       │    │  - Spawn rate        │
+│  - Historical pricing│       │  - Resource spawns    │    │  - Trading screens  │    │    adjustments       │
+│  - Supply levels     │       │  - Price fluctuations │    │  - Auction houses   │    │  - Resource quality  │
+│  - Demand trends     │       │  - NPC behaviors      │    │  - Price charts     │    │    control           │
+│                      │       │                       │    │                     │    │                      │
+│• Property Database   │       │• Hourly Updates       │    │• Property Interfaces│    │• Economic Events     │
+│  - Ownership records │       │  - Property values    │    │  - Deed management  │    │  - Trigger market    │
+│  - Value history     │       │  - Business profits   │    │  - Business control │    │    crashes           │
+│  - Tax records       │       │  - Regional economic  │    │  - Tax payment      │    │  - Create resource   │
+│  - Improvement data  │       │    indices            │    │  - Building menus   │    │    booms             │
+│                      │       │  - Stock market       │    │                     │    │  - Spawn disasters   │
+│• Government Data     │       │• Daily Updates        │    │• Government         │    │• Player Management   │
+│  - Tax collection    │       │  - Tax calculations   │    │  Interfaces         │    │  - Economic resets   │
+│  - Law enforcement   │       │  - Regional influence │    │  - Voting systems   │    │  - Balance           │
+│  - Election records  │       │  - Resource respawns  │    │  - Law enforcement  │    │    adjustments       │
+│  - Public works      │       │  - Banking interest   │    │  - Public works     │    │  - Ban economic      │
+│                      │       │                       │    │    management       │    │    exploiters        │
+│• Transaction Logs    │       │• Weekly Updates       │    │• Data Analytics     │    │• System Monitoring   │
+│  - All money         │       │  - Major economic     │    │  - Personal history │    │  - Performance       │
+│    movements         │       │    shifts            │    │  - Economic trends  │    │    tracking          │
+│  - Trade history     │       │  - Government changes │    │  - Comparative      │    │  - Exploit detection │
+│  - Crime records     │       │  - Major events       │    │    analysis         │    │  - Database backup   │
+│  - Resource tracking │       │  - Season changes     │    │                     │    │                      │
+└──────────────────────┘       └───────────────────────┘    └─────────────────────┘    └──────────────────────┘
