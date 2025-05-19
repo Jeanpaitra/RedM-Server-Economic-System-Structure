@@ -1,0 +1,43 @@
+┌───────────────────────────────────────────────────────────────────────────────────────────┐
+│                        REGIONAL ECONOMIC INTERDEPENDENCE                                   │
+└───────────────────────────────────────────┬───────────────────────────────────────────────┘
+                                            │
+┌────────────────────────────────────────┬──┴───────────────────────┬───────────────────────────┐
+│                                        │                          │                           │
+▼                                        ▼                          ▼                           ▼
+┌────────────────────────────┐  ┌────────────────────────┐  ┌─────────────────────────┐  ┌────────────────────────┐
+│      NEW HANOVER           │  │        LEMOYNE         │  │     WEST ELIZABETH      │  │       AMBARINO        │
+├────────────────────────────┤  ├────────────────────────┤  ├─────────────────────────┤  ├────────────────────────┤
+│EXPORTS TO:                 │  │EXPORTS TO:             │  │EXPORTS TO:              │  │EXPORTS TO:             │
+├────────────────────────────┤  ├────────────────────────┤  ├─────────────────────────┤  ├────────────────────────┤
+│• Lemoyne:                  │  │• New Hanover:          │  │• New Hanover:           │  │• New Hanover:          │
+│  - Food crops              │  │  - Fish                │  │  - Processed metals     │  │  - Precious metals     │
+│  - Timber                  │  │  - Exotic herbs        │  │  - Fine wool            │  │  - Premium furs        │
+│  - Livestock               │  │  - Luxury goods        │  │  - Refined goods        │  │  - Rare herbs          │
+│  Tax: 3%                   │  │  Tax: 3%               │  │  Tax: 3%                │  │  Tax: 3%               │
+│                            │  │                        │  │                         │  │                        │
+│• West Elizabeth:           │  │• West Elizabeth:       │  │• Lemoyne:               │  │• Lemoyne:              │
+│  - Food crops              │  │  - Fish                │  │  - Processed metals     │  │  - Precious metals     │
+│  - Timber                  │  │  - Raw spices          │  │  - Cattle               │  │  - Furs                │
+│  - Raw materials           │  │  - Smuggled goods      │  │  - Engineering products │  │  - Mountain herbs      │
+│  Tax: 3%                   │  │  Tax: 3%               │  │  Tax: 3%                │  │  Tax: 3%               │
+│                            │  │                        │  │                         │  │                        │
+│• Ambarino:                 │  │• Ambarino:             │  │• Ambarino:              │  │• West Elizabeth:       │
+│  - Food crops              │  │  - Preserved fish      │  │  - Processed metals     │  │  - Gold ore            │
+│  - Construction materials  │  │  - Luxury items        │  │  - Tools                │  │  - Silver ore          │
+│  - Processed goods         │  │  - Medicine            │  │  - Weapons              │  │  - Rare minerals       │
+│  Tax: 2%                   │  │  Tax: 2%               │  │  Tax: 2%                │  │  Tax: 3%               │
+│                            │  │                        │  │                         │  │                        │
+│• New Austin:               │  │• New Austin:           │  │• New Austin:            │  │• New Austin:           │
+│  - Food crops              │  │  - Exotic goods        │  │  - Finished products    │  │  - Precious metals     │
+│  - Manufactured goods      │  │  - Medicines           │  │  - Weapons              │  │  - Cold-weather goods  │
+│  - Timber                  │  │  - Alcohol             │  │  - Tools                │  │  - Specialty items     │
+│  Tax: 5%                   │  │  Tax: 5%               │  │  Tax: 5%                │  │  Tax: 5%               │
+│                            │  │                        │  │                         │  │                        │
+│IMPORTS FROM:               │  │IMPORTS FROM:           │  │IMPORTS FROM:            │  │IMPORTS FROM:           │
+├────────────────────────────┤  ├────────────────────────┤  ├─────────────────────────┤  ├────────────────────────┤
+│• Lemoyne: Fish, spices     │  │• New Hanover: Crops    │  │• New Hanover: Crops     │  │• New Hanover: Food     │
+│• West Elizabeth: Metals    │  │• West Elizabeth: Metal │  │• Lemoyne: Fish, herbs   │  │• Lemoyne: Fish, goods  │
+│• Ambarino: Precious metals │  │• Ambarino: Metals      │  │• Ambarino: Precious     │  │• West Elizabeth: Tools │
+│• New Austin: Minerals      │  │• New Austin: Silver    │  │  metals                 │  │• New Austin: ??        │
+└────────────────────────────┘  └────────────────────────┘  └─────────────────────────┘  └────────────────────────┘
