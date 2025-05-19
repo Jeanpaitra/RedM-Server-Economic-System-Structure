@@ -1,0 +1,29 @@
+┌───────────────────────────────────────────────────────────────────────────────────────────┐
+│                          PROPERTY & INVESTMENT SYSTEM                                      │
+└───────────────────────────────────────────┬───────────────────────────────────────────────┘
+                                            │
+        ┌─────────────────────────────────┬─┴────────────────────────┬──────────────────────────┐
+        ▼                                 ▼                          ▼                          ▼
+┌──────────────────────┐       ┌───────────────────────┐    ┌─────────────────────┐    ┌──────────────────────┐
+│   PROPERTY TYPES     │       │  PROPERTY ECONOMICS   │    │  BUSINESS OWNERSHIP │    │    INVESTMENTS       │
+├──────────────────────┤       ├───────────────────────┤    ├─────────────────────┤    ├──────────────────────┤
+│• Land Parcels        │       │• Purchase Costs       │    │• Business Types     │    │• Stock Market        │
+│  - Small: $500       │       │  - Location premium   │    │  - Saloon: $2,000   │    │  - 10 major companies│
+│  - Medium: $1,200    │       │    (50-300%)          │    │  - General Store:   │    │  - Daily fluctuations│
+│  - Large: $3,000     │       │  - Resource premium   │    │    $1,500           │    │  - 5-15% volatility  │
+│                      │       │    (gold claim: 400%) │    │  - Blacksmith:      │    │  - Dividends (2-8%)  │
+│• Buildings           │       │                       │    │    $1,200           │    │                      │
+│  - Small Cabin:      │       │• Maintenance Costs    │    │  - Hotel: $5,000    │    │• Mining Investments  │
+│    $800              │       │  - Property tax:      │    │                     │    │  - Share costs:      │
+│  - House: $1,500     │       │    2%/month           │    │• Operating Costs    │    │    $100-$1,000       │
+│  - Luxury Home:      │       │  - Repairs:           │    │  - Staff: $10-50/day│    │  - ROI: 15-40%       │
+│    $5,000            │       │    $10-100/month      │    │  - Supplies:        │    │  - Payout period:    │
+│                      │       │                       │    │    $50-200/week     │    │    7-30 days         │
+│• Business Properties │       │• Property Value       │    │  - Insurance:       │    │                      │
+│  - Small Shop:       │       │  Growth               │    │    $25-100/week     │    │• Bank Investments    │
+│    $1,000            │       │  - Location based:    │    │                     │    │  - Certificates:     │
+│  - Large Store:      │       │    2-8%/month         │    │• Revenue Streams    │    │    $500-$10,000      │
+│    $2,500            │       │  - Improvements:      │    │  - Sales margin:    │    │  - Interest: 3-7%    │
+│  - Saloon/Hotel:     │       │    10-50% one-time    │    │    15-40%           │    │  - Term: 2-4 weeks   │
+│    $4,000            │       │    boost              │    │  - Service fees     │    │                      │
+└──────────────────────┘       └───────────────────────┘    └─────────────────────┘    └──────────────────────┘
