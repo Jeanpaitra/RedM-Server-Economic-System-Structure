@@ -1,0 +1,32 @@
+┌───────────────────────────────────────────────────────────────────────────────────────────┐
+│                          GOVERNMENT & TAXATION SYSTEM                                      │
+└───────────────────────────────────────────┬───────────────────────────────────────────────┘
+                                            │
+        ┌─────────────────────────────────┬─┴────────────────────────┬──────────────────────────┐
+        ▼                                 ▼                          ▼                          ▼
+┌──────────────────────┐       ┌───────────────────────┐    ┌─────────────────────┐    ┌──────────────────────┐
+│ GOVERNMENT STRUCTURE │       │     TAX SYSTEM        │    │  DOCUMENTATION      │    │  PUBLIC SERVICES     │
+├──────────────────────┤       ├───────────────────────┤    ├─────────────────────┤    ├──────────────────────┤
+│• Federal Level       │       │• Income Tax           │    │• Citizenship Papers │    │• Law Enforcement     │
+│  - President (NPC)   │       │  - Rate: 8%           │    │  - Cost: $25        │    │  - Sheriff office    │
+│  - Federal Treasury  │       │  - Collection: weekly │    │  - Required for     │    │  - Deputy patrols    │
+│  - Supreme Court     │       │  - Penalties: 150%    │    │    property ownership│   │  - Bounty system     │
+│                      │       │    of owed amount     │    │                     │    │                      │
+│• Regional Level      │       │• Property Tax         │    │• Business License   │    │• Infrastructure      │
+│  - Governors         │       │  - Rate: 2%/month     │    │  - Cost: $100 + 5%  │    │  - Road maintenance  │
+│    (player elected)  │       │  - Based on assessed  │    │    of business value│    │  - Town improvements │
+│  - Regional Treasury │       │    value              │    │  - Annual renewal:  │    │  - Building repairs  │
+│  - Courts            │       │  - Improvements       │    │    $50              │    │                      │
+│                      │       │    increase tax       │    │                     │    │• Healthcare          │
+│• Local Level         │       │                       │    │• Mining Claim       │    │  - Doctors           │
+│  - Mayors            │       │• Luxury Tax           │    │  - Cost: $500       │    │  - Hospitals         │
+│    (player elected)  │       │  - Rate: 10%          │    │  - Weekly renewal:  │    │  - Medicine          │
+│  - Town Council      │       │  - Applied to:        │    │    $50              │    │    subsidies         │
+│  - Local Treasury    │       │    - Premium horses   │    │  - Claim size:      │    │                      │
+│                      │       │    - Luxury homes     │    │    100x100ft        │    │• Education           │
+│                      │       │    - Fine jewelry     │    │                     │    │  - Schools           │
+│                      │       │                       │    │• Property Deed      │    │  - Skill trainers    │
+│                      │       │• Import/Export Tax    │    │  - Transfer fee: $25│    │  - Libraries         │
+│                      │       │  - Rate: 5%           │    │  - Required for     │    │                      │
+│                      │       │  - Cross-region goods │    │    sale/purchase    │    │                      │
+└──────────────────────┘       └───────────────────────┘    └─────────────────────┘    └──────────────────────┘
