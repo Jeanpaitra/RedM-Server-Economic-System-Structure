@@ -1,0 +1,42 @@
+┌───────────────────────────────────────────────────────────────────────────────────────────┐
+│                   MONETIZATION & PREMIUM CURRENCY INTEGRATION                              │
+└───────────────────────────────────────────┬───────────────────────────────────────────────┘
+                                            │
+        ┌─────────────────────────────────┬─┴────────────────────────┬──────────────────────────┐
+        ▼                                 ▼                          ▼                          ▼
+┌──────────────────────┐       ┌───────────────────────┐    ┌─────────────────────┐    ┌──────────────────────┐
+│  REAL MONEY TO USD   │       │  PREMIUM FEATURES     │    │ COSMETIC PURCHASES  │    │ SUBSCRIPTION MODELS  │
+│    CONVERSION        │       │                       │    │                     │    │                      │
+├──────────────────────┤       ├───────────────────────┤    ├─────────────────────┤    ├──────────────────────┤
+│• Exchange Rates      │       │• Exclusive Tools      │    │• Character Outfits  │    │• Basic Membership    │
+│  - $1 = $100 in-game │       │  - Premium Mining Kit │    │  - Standard: $1-$5  │    │  - Free              │
+│  - $5 = $550 in-game │       │    ($5 real money)    │    │    in-game currency │    │  - Standard features │
+│  - $10 = $1,200      │       │  - Advanced Crafting  │    │  - Premium: $5-$15  │    │  - Basic economy     │
+│    in-game           │       │    Station            │    │    real money       │    │    participation     │
+│  - $20 = $2,500      │       │    ($10 real money)   │    │                     │    │                      │
+│    in-game           │       │  - Business Manager   │    │• Horse Accessories  │    │• Silver Membership   │
+│  - $50 = $6,500      │       │    ($15 real money)   │    │  - Standard: $1-$10 │    │  - $5/month         │
+│    in-game           │       │                       │    │    in-game currency │    │  - Queue priority    │
+│  - $100 = $15,000    │       │• Exclusive Properties │    │  - Premium: $3-$20  │    │  - 10% bonus on      │
+│    in-game           │       │  - Luxury Home        │    │    real money       │    │    resources         │
+│                      │       │    ($20 real money)   │    │                     │    │  - Discount on       │
+│• Purchase Limits     │       │  - Private Business   │    │• Weapon Customization│   │    property tax: 5%  │
+│  - Daily: $100       │       │    Location           │    │  - Standard: $2-$15 │    │                      │
+│  - Weekly: $500      │       │    ($30 real money)   │    │    in-game currency │    │• Gold Membership     │
+│  - Monthly: $1,000   │       │  - Private Mining     │    │  - Premium: $5-$25  │    │  - $10/month        │
+│                      │       │    Claim              │    │    real money       │    │  - Queue priority    │
+│• Anti-Pay-To-Win     │       │    ($25 real money)   │    │                     │    │  - 25% bonus on      │
+│  Measures            │       │                       │    │• Camp & Property    │    │    resources         │
+│  - No combat         │       │• Gameplay Enhancers   │    │  Decorations        │    │  - Discount on       │
+│    advantages        │       │  - Fast Travel Pass   │    │  - Standard: $5-$20 │    │    property tax: 10% │
+│  - No exclusive      │       │    ($5/month)         │    │    in-game currency │    │  - Free bank account │
+│    resources         │       │  - Extra Inventory    │    │  - Premium: $10-$30 │    │                      │
+│  - No skill boosts   │       │    Space              │    │    real money       │    │• Platinum Membership │
+│                      │       │    ($10 one-time)     │    │                     │    │  - $25/month        │
+│                      │       │  - Resource Scanner   │    │                     │    │  - All Gold benefits │
+│                      │       │    ($15 one-time)     │    │                     │    │  - 50% bonus on      │
+│                      │       │                       │    │                     │    │    resources         │
+│                      │       │                       │    │                     │    │  - No property tax   │
+│                      │       │                       │    │                     │    │  - Exclusive monthly │
+│                      │       │                       │    │                     │    │    cosmetic item     │
+└──────────────────────┘       └───────────────────────┘    └─────────────────────┘    └──────────────────────┘
