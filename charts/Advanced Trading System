@@ -1,0 +1,27 @@
+┌───────────────────────────────────────────────────────────────────────────────────────────┐
+│                               TRADING SYSTEM                                               │
+└───────────────────────────────────────────┬───────────────────────────────────────────────┘
+                                            │
+        ┌─────────────────────────────────┬─┴────────────────────────┬──────────────────────────┐
+        ▼                                 ▼                          ▼                          ▼
+┌──────────────────────┐       ┌───────────────────────┐    ┌─────────────────────┐    ┌──────────────────────┐
+│   MARKET SYSTEM      │       │ COMMODITY EXCHANGE    │    │ TRANSPORT LOGISTICS │    │    TRADE RISKS       │
+├──────────────────────┤       ├───────────────────────┤    ├─────────────────────┤    ├──────────────────────┤
+│• Local Markets       │       │• Precious Metals      │    │• Shipping Methods   │    │• Bandit Attacks      │
+│  - Town-based        │       │  Exchange             │    │  - Horse: 50lb      │    │  - Probability:      │
+│  - Basic goods       │       │  - Daily price        │    │    capacity         │    │    5-25% based on    │
+│  - Stable pricing    │       │    fluctuations       │    │  - Wagon: 500lb     │    │    route & time      │
+│                      │       │  - Buy/sell spread    │    │    capacity         │    │  - Potential losses: │
+│• Regional Exchanges  │       │    (5%)               │    │  - Cart: 200lb      │    │    20-100% of goods  │
+│  - Specialized goods │       │                       │    │    capacity         │    │                      │
+│  - Supply/demand     │       │• Industrial Materials │    │                     │    │• Weather Impacts     │
+│    pricing           │       │  Exchange             │    │• Transport Costs    │    │  - Snow: -50% speed  │
+│                      │       │  - Copper, Iron, Coal │    │  - Local: $0.10/lb  │    │  - Rain: -25% speed  │
+│• Auction House       │       │  - Weekly price       │    │  - Regional: $0.25/lb│   │  - Storms: Damage    │
+│  (major towns)       │       │    adjustments        │    │  - Cross-map: $0.50/lb│  │    chance to goods   │
+│  - Player listings   │       │                       │    │                     │    │                      │
+│  - 10% listing fee   │       │• Gem & Jewelry        │    │• Delivery Times     │    │• Market Crashes      │
+│  - 48hr duration     │       │  Market               │    │  - Local: 1hr       │    │  - Server events     │
+│                      │       │  - Expert appraisals  │    │  - Regional: 3hrs   │    │  - Price drops of    │
+│                      │       │  - Luxury tax (8%)    │    │  - Cross-map: 8hrs  │    │    30-70%            │
+└──────────────────────┘       └───────────────────────┘    └─────────────────────┘    └──────────────────────┘
