@@ -1,4 +1,4 @@
-# RedM Server Economic System Structure
+# # RedM Server Economic System Structure
 
 ![Version](https://img.shields.io/badge/version-1.0.0-blue)
 ![License](https://img.shields.io/badge/license-MIT-green)
